@@ -1,0 +1,12 @@
+ul#menu li {
+    display:inline;
+  }
+.header{
+  overflow: hidden;
+  background-color: gray;
+}
+.header .title{
+  font-size: 25px;
+  font-weight: bold;
+  align-items: center;
+}
